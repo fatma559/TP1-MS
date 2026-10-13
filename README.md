@@ -129,9 +129,7 @@ La classe `PresentationDynamique` lit ces noms, utilise `Class.forName()` pour c
 
 ### Captures d'écran
 
-![Configuration dynamique](captures/02-configuration-dynamique.png)
-
-![Exécution de l'activité 1-2](captures/03-instanciation-dynamique.png)
+![Exécution de l'activité 1-2](IMAGES/1.png)
 
 ### Résultat attendu
 
