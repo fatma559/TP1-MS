@@ -157,9 +157,8 @@ La classe `PresentationAvecSpring` charge le contexte avec `ClassPathXmlApplicat
 
 ### Captures d'écran
 
-![Configuration Spring XML](captures/04-configuration-spring-xml.png)
 
-![Exécution de l'activité 1-3](captures/05-spring-xml-execution.png)
+![Exécution de l'activité 1-3](IMAGES/1.png)
 
 ### Résultat attendu
 
