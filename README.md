@@ -98,7 +98,7 @@ La méthode `getValue()` retourne `3`. La méthode `calcul()` multiplie cette va
 
 ### Capture d'écran
 
-![Exécution de l'activité 1-1](captures/01-instanciation-statique.png)
+![Exécution de l'activité 1-1](IMAGES/1.png)
 
 ### Résultat attendu
 
@@ -129,7 +129,7 @@ La classe `PresentationDynamique` lit ces noms, utilise `Class.forName()` pour c
 
 ### Captures d'écran
 
-![Exécution de l'activité 1-2](IMAGES/1.png)
+![Exécution de l'activité 1-2](IMAGES/2.png)
 
 ### Résultat attendu
 
@@ -158,7 +158,7 @@ La classe `PresentationAvecSpring` charge le contexte avec `ClassPathXmlApplicat
 ### Captures d'écran
 
 
-![Exécution de l'activité 1-3](IMAGES/1.png)
+![Exécution de l'activité 1-3](IMAGES/3.png)
 
 ### Résultat attendu
 
@@ -190,9 +190,9 @@ La classe `PresentationAvecAnnotation` crée un contexte Spring en scannant les 
 
 ### Captures d'écran
 
-![Annotations Spring](captures/06-annotations-spring.png)
 
-![Exécution de l'activité 1-4](captures/07-spring-annotations-execution.png)
+
+![Exécution de l'activité 1-4](IMAGES/4.png)
 
 ### Résultat attendu
 
